@@ -8,11 +8,11 @@
 1. membuat tabel user login di mysql
 ![image](https://github.com/user-attachments/assets/77bf533c-41c6-4fed-a1e1-e68c2cb7584d)
 
-2. Selanjutnya adalah membuat Model untuk memproses data Login. Buat file baru pada direktori
+2. Membuat Model untuk memproses data Login. Buat file baru pada direktori
 app/Models dengan nama UserModel.php
 ![image](https://github.com/user-attachments/assets/29d89ff6-9e1b-4beb-93d9-303496963ca0)
 
-3. Buat Controller baru dengan nama User.php pada direktori app/Controllers. Kemudian
+3. Membuat Controller baru dengan nama User.php pada direktori app/Controllers. Kemudian
 tambahkan method index() untuk menampilkan daftar user, dan method login() untuk proses
 login.
 ![image](https://github.com/user-attachments/assets/100a9083-d5b9-4c30-9d3d-44c31fc4bf11)
