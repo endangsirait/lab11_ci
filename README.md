@@ -1,6 +1,6 @@
-## Nama : Khairinisya Ani .A.
-## NIM  : 312310365
-## kelas :TI 23 A.4
+## Nama : Endang Sirait
+## NIM  : 312310588
+## kelas :TI 23 A.6
 
 
 1. Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian Apache
